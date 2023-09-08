@@ -53,7 +53,7 @@ int main()
     while (wait(NULL) > 0);
 
     /* print parent process id */
-    printf("parent: pid = %d\n", pid1); /* C */
+    printf("parent-pid: %d\n", pid1); /* C */
 
     /* print child process id */
     for (int i = 0; i < n_proc; i++)
