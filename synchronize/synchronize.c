@@ -1,3 +1,6 @@
+
+// 6434461423 Phichaphop Raqsaboon
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
